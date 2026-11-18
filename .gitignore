@@ -1,0 +1,13 @@
+# Training outputs (tokenizer, checkpoints)
+artifacts/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Local documents not meant for the repo
+*.pdf
+
+# OS
+.DS_Store
